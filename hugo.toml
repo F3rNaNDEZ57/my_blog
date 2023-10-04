@@ -1,3 +1,42 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#baseURL = "https://meik2333.com/"
+languageCode = "en"
+title = "myweb"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Kavindu Fernando"
+  description = "Python Dev,IOT,Problem Solver"
+  github = "F3rNaNDEZ57"
+  facebook = "profile.php?id=100086076716793&mibextid=LQQJ4d"
+  twitter = "#"
+  linkedin = "fernando-kavindu"
+  instagram = "k_fer_nando"
+  email = "kavindufernando329@gmail.com"
+  url = "#"
+  keywords = "blog, google analytics,problem solving,data structures,algorithms"
+  rss = false
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "Sri Lanka"
+  enableGitalk = false
+
+  [params.gitalk]
+    clientID = "Your client ID" 
+    clientSecret = "Your client secret" 
+    repo = "repo"
+    owner = "MeiK2333"
+    admin = "MeiK2333"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
