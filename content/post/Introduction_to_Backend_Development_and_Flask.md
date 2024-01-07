@@ -3,7 +3,7 @@ title = 'Introduction_to_Backend_Development_and_Flask'
 date = 2024-01-07T14:54:27+05:30
 draft = false
 summary = "post 01 of the backend dev series"
-tags = [backend,flask,python]
+tags = [backend]
 +++
 
 # Introduction to Backend Development and Flask
