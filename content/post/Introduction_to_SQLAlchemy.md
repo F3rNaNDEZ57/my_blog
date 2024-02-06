@@ -117,9 +117,8 @@ One of the most significant strengths of SQLAlchemy is its compatibility with a 
 This compatibility is made possible through the use of DBAPIs - Python database interfaces, which SQLAlchemy utilizes to interact with these different database systems. This feature ensures that SQLAlchemy can be a go-to choice for Python developers regardless of the underlying database system they are working with.
 
 In the next section, we will dive into how to set up SQLAlchemy and establish connectivity with a database, taking advantage of these powerful components and compatibility features.
-
-<br>
-<br>
+  
+  
 
 ## Section 2: Setting Up SQLAlchemy
 
