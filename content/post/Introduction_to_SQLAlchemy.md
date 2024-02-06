@@ -77,6 +77,9 @@ In this introductory post, we will cover:
 
 Join us as we embark on this journey to master SQLAlchemy and enhance our Python database management skills!
 
+<br>
+<br>
+
 ## Section 1: Overview of SQLAlchemy
 
 SQLAlchemy stands out in the Python ecosystem for its powerful and versatile approach to database interaction, which is mainly due to its two principal components: the Core and the ORM. Both components offer unique functionalities and cater to different aspects of database management.
@@ -114,6 +117,9 @@ One of the most significant strengths of SQLAlchemy is its compatibility with a 
 This compatibility is made possible through the use of DBAPIs - Python database interfaces, which SQLAlchemy utilizes to interact with these different database systems. This feature ensures that SQLAlchemy can be a go-to choice for Python developers regardless of the underlying database system they are working with.
 
 In the next section, we will dive into how to set up SQLAlchemy and establish connectivity with a database, taking advantage of these powerful components and compatibility features.
+
+<br>
+<br>
 
 ## Section 2: Setting Up SQLAlchemy
 
