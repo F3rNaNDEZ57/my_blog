@@ -2,6 +2,7 @@
 title = 'Introduction to SQLAlchemy - Part01: Harnessing the Power of Python in Database Management'
 date = "2024-01-12T03:39:13+05:30"
 draft = false
+pin = true
 summary = "post 02 of the backend dev series - SQLAlchemy"
 tags = ["backend","SQLAlchemy"]
 +++
