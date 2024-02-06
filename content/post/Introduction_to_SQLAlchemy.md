@@ -59,7 +59,7 @@ Welcome to our first blog post in a series dedicated to SQLAlchemy, a powerful t
 
 ## What is SQLAlchemy?
 
-SQLAlchemy is an ORM (Object-Relational Mapping) library for Python, offering a full suite of tools to connect Python applications with relational databases like MySQL, PostgreSQL, and SQLite. It enables developers to write Python code instead of SQL to create, read, update, and delete data and schemas in their database. It's known for its flexibility and the high level of abstraction it provides over traditional database interaction methods.
+SQLAlchemy is an ORM ([Object-Relational Mapping](https://www.google.com)) library for Python, offering a full suite of tools to connect Python applications with relational databases like MySQL, PostgreSQL, and SQLite. It enables developers to write Python code instead of SQL to create, read, update, and delete data and schemas in their database. It's known for its flexibility and the high level of abstraction it provides over traditional database interaction methods.
 
 ## Why SQLAlchemy?
 
