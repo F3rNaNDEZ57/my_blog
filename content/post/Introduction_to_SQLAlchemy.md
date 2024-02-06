@@ -54,6 +54,7 @@ Conclusion:
 Recap the main points covered in the post.
 Tease what's coming next in the series (e.g., deeper dive into ORM, advanced querying, etc.). -->
 
+# Introduction to SQLAlchemy: Unleashing the Power of Databases in Python
 
 Welcome to our first blog post in a series dedicated to SQLAlchemy, a powerful tool for Python developers looking to interact with databases in a more Pythonic way. SQLAlchemy stands as a cornerstone in the Python ecosystem for database operations, bridging the gap between the simplicity of Python and the robustness of SQL databases.
 
